@@ -20,3 +20,4 @@ OPCIONES:
 
 **(5)** Te dará el historial de nicks de un nick de minecraft
 
+ 
