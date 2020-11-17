@@ -1,6 +1,8 @@
 # LinkDox
 Esta programada totalmente por mi, su uso es muy sencillo, 5 opciones que te ayudarán a obtener información de un nick, ip, nombre y demás.
 
+https://user-images.githubusercontent.com/66963108/99462453-02fb6480-2934-11eb-8047-a05a0f28ae1c.PNG
+
 OPCIONES:
 
 **(1)** Esta opción intentará conseguir la contraseña de un correo
