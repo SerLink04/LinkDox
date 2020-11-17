@@ -163,7 +163,7 @@ def google():
 def SearchEmail():
 	print()
 	email = input(Fore.RED + "  [LinkDox] " + Fore.CYAN + "Introduce un correo: " + Fore.WHITE)
-	print("\n"+wait+" Tratando de obtener información del correo '%s'..." % (email))
+	print("\n"+wait+" Intentando de obtener información del correo '%s'..." % (email))
 	lkd = leaked()
 	leak = lkd.email(email)
 
