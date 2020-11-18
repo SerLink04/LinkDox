@@ -10,9 +10,9 @@ Mi server de discord: https://discord.gg/linksquad
 
 OPCIONES:
 
-**(1)** Esta opción intentará conseguir la contraseña de un correo
+**(1)** Esta opción intentará conseguir la contraseña de un correo.
 
-**(2)** Podrás obtener el historial de nicks de un nick o username.
+**(2)** Podrás obtener información a partir de un nick o username.
 
 **(3)** Te dará información de una aipi address.
 
