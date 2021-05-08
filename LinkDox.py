@@ -4,7 +4,7 @@ from colorama import init, Fore,  Back,  Style
 
 name_cmd = "LinkDox - #LinkSquad - #CodedBySerLink04"
 
-#Coded By SerLink04#0001 on discord | My server of discord >> https://discord.gg/linksquad
+#Coded By SerLink04#9999 on discord | My server of discord >> https://discord.gg/spain
 
 ctypes.windll.kernel32.SetConsoleTitleW(name_cmd)
 
