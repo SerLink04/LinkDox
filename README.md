@@ -1,9 +1,9 @@
 # LinkDox
 Su uso es muy sencillo, 5 opciones que te ayudarán a obtener información de un nick, ip, nombre y demás.
 
-Mi discord: SerLink04#0001
+Mi discord: SerLink04#9999
 
-Mi server de discord: https://discord.gg/linksquad
+Mi server de discord: https://discord.gg/spain
 
 ![linkdox_photo](https://user-images.githubusercontent.com/66963108/99462453-02fb6480-2934-11eb-8047-a05a0f28ae1c.PNG)
 
