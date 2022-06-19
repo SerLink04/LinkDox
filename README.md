@@ -3,7 +3,7 @@ Su uso es muy sencillo, 5 opciones que te ayudarán a obtener información de un
 
 Mi discord: SerLink04#6666
 
-Mi server de discord: https://discord.gg/sweet
+Mi server de discord: https://discord.gg/lsq
 
 ![linkdox_photo](https://user-images.githubusercontent.com/66963108/99462453-02fb6480-2934-11eb-8047-a05a0f28ae1c.PNG)
 
